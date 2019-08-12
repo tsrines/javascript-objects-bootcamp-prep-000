@@ -1,4 +1,4 @@
-# JavaScript Objects
+display# JavaScript Objects
 
 ## Overview
 
